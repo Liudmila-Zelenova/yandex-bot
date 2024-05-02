@@ -1,0 +1,2 @@
+# yandex-bot
+yandexbot.js
